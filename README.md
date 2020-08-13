@@ -1,4 +1,6 @@
 
+Check the website, click here ! [https://tomaszkund.github.io/Weather_app/]
+
 <h2> WeatherApp with Javascript</h2>
 
 <p>Simple weather app JAVASCRIPT. Type you city name and check weather, You can see the weather in your city through animations!.</p>
